@@ -1,0 +1,32 @@
+#title{
+    font-size: 60px;
+    text-align: center;
+    color: #629584;
+ }
+ #button{
+    background-color:#629584;
+    color: #E2F1E7;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 45px;
+    font-weight: 900;
+   
+  }
+ 
+ 
+ 
+ 
+ ol {
+    border: 2px solid transparent;
+    padding: .5em;
+    display:flex;
+    list-style: none;
+    margin-left :33%;
+  
+  }
+ 
+ 
+ li{
+  border: 2px solid transparent;
+  padding: .5em;
+ }
+ 
